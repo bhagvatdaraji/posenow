@@ -1,5 +1,5 @@
 // Offline shell: hashed assets cache-first, pages + shots.json network-first.
-const CACHE = 'posenow-v4';
+const CACHE = 'posenow-v5';
 const SCOPE = self.registration.scope;
 
 self.addEventListener('install', (e) => {
@@ -18,7 +18,7 @@ self.addEventListener('fetch', (e) => {
   const req = e.request;
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
-  const immutable = url.href.startsWith(SCOPE + 'a/') || url.href.startsWith(SCOPE + 'mp/') || url.hostname.endsWith('gstatic.com');
+  const immutable = url.href.startsWith(SCOPE + 'a/') || url.href.startsWith(SCOPE + 'mp/') || (url.href.startsWith(SCOPE + 'renders/') && url.pathname.endsWith('.webp')) || url.hostname.endsWith('gstatic.com');
   if (immutable) {
     e.respondWith(
       caches.match(req).then((hit) => hit || fetch(req).then((res) => {

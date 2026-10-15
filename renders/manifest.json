@@ -1,0 +1,95 @@
+{
+ "version": 1,
+ "items": {
+  "easy-stand": {
+   "key": "31306ada",
+   "card": "renders/easy-stand-31306ada-card.webp",
+   "ghost": "renders/easy-stand-31306ada-ghost.webp"
+  },
+  "hand-on-hip": {
+   "key": "c7694d37",
+   "card": "renders/hand-on-hip-c7694d37-card.webp",
+   "ghost": "renders/hand-on-hip-c7694d37-ghost.webp"
+  },
+  "hair-touch": {
+   "key": "6c1f7ba5",
+   "card": "renders/hair-touch-6c1f7ba5-card.webp",
+   "ghost": "renders/hair-touch-6c1f7ba5-ghost.webp"
+  },
+  "arms-crossed": {
+   "key": "8fe3d2c7",
+   "card": "renders/arms-crossed-8fe3d2c7-card.webp",
+   "ghost": "renders/arms-crossed-8fe3d2c7-ghost.webp"
+  },
+  "coffee-hold": {
+   "key": "e75cc5b0",
+   "card": "renders/coffee-hold-e75cc5b0-card.webp",
+   "ghost": "renders/coffee-hold-e75cc5b0-ghost.webp"
+  },
+  "look-back": {
+   "key": "3f21515a",
+   "card": "renders/look-back-3f21515a-card.webp",
+   "ghost": "renders/look-back-3f21515a-ghost.webp"
+  },
+  "walk-toward": {
+   "key": "ffb6dde5",
+   "card": "renders/walk-toward-ffb6dde5-card.webp",
+   "ghost": "renders/walk-toward-ffb6dde5-ghost.webp"
+  },
+  "look-away-walk": {
+   "key": "2b5055fe",
+   "card": "renders/look-away-walk-2b5055fe-card.webp",
+   "ghost": "renders/look-away-walk-2b5055fe-ghost.webp"
+  },
+  "wall-lean": {
+   "key": "dcfd0463",
+   "card": "renders/wall-lean-dcfd0463-card.webp",
+   "ghost": "renders/wall-lean-dcfd0463-ghost.webp"
+  },
+  "palm-on-wall": {
+   "key": "2eb2480f",
+   "card": "renders/palm-on-wall-2eb2480f-card.webp",
+   "ghost": "renders/palm-on-wall-2eb2480f-ghost.webp"
+  },
+  "railing-lean": {
+   "key": "0ec0274f",
+   "card": "renders/railing-lean-0ec0274f-card.webp",
+   "ghost": "renders/railing-lean-0ec0274f-ghost.webp"
+  },
+  "stair-sit": {
+   "key": "f0520c20",
+   "card": "renders/stair-sit-f0520c20-card.webp",
+   "ghost": "renders/stair-sit-f0520c20-ghost.webp"
+  },
+  "crossed-legs-chair": {
+   "key": "cfeff112",
+   "card": "renders/crossed-legs-chair-cfeff112-card.webp",
+   "ghost": "renders/crossed-legs-chair-cfeff112-ghost.webp"
+  },
+  "ledge-perch": {
+   "key": "66a7fee5",
+   "card": "renders/ledge-perch-66a7fee5-card.webp",
+   "ghost": "renders/ledge-perch-66a7fee5-ghost.webp"
+  },
+  "chin-rest": {
+   "key": "62f58977",
+   "card": "renders/chin-rest-62f58977-card.webp",
+   "ghost": "renders/chin-rest-62f58977-ghost.webp"
+  },
+  "side-by-side": {
+   "key": "3ab03bad",
+   "card": "renders/side-by-side-3ab03bad-card.webp",
+   "ghost": "renders/side-by-side-3ab03bad-ghost.webp"
+  },
+  "back-hug": {
+   "key": "85634b79",
+   "card": "renders/back-hug-85634b79-card.webp",
+   "ghost": "renders/back-hug-85634b79-ghost.webp"
+  },
+  "walk-together": {
+   "key": "24d86f8e",
+   "card": "renders/walk-together-24d86f8e-card.webp",
+   "ghost": "renders/walk-together-24d86f8e-ghost.webp"
+  }
+ }
+}
