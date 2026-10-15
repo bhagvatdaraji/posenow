@@ -1,5 +1,5 @@
 // Offline shell: hashed assets cache-first, pages + shots.json network-first.
-const CACHE = 'posenow-v1';
+const CACHE = 'posenow-v2';
 const SCOPE = self.registration.scope;
 
 self.addEventListener('install', (e) => {
