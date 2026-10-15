@@ -2,94 +2,174 @@
  "version": 1,
  "items": {
   "easy-stand": {
-   "key": "31306ada",
-   "card": "renders/easy-stand-31306ada-card.webp",
-   "ghost": "renders/easy-stand-31306ada-ghost.webp"
+   "key": "addac153",
+   "card": "renders/easy-stand-addac153-card.webp",
+   "ghost": "renders/easy-stand-addac153-ghost.webp"
   },
   "hand-on-hip": {
-   "key": "c7694d37",
-   "card": "renders/hand-on-hip-c7694d37-card.webp",
-   "ghost": "renders/hand-on-hip-c7694d37-ghost.webp"
+   "key": "76e605c8",
+   "card": "renders/hand-on-hip-76e605c8-card.webp",
+   "ghost": "renders/hand-on-hip-76e605c8-ghost.webp"
   },
   "hair-touch": {
-   "key": "6c1f7ba5",
-   "card": "renders/hair-touch-6c1f7ba5-card.webp",
-   "ghost": "renders/hair-touch-6c1f7ba5-ghost.webp"
+   "key": "28dad4b4",
+   "card": "renders/hair-touch-28dad4b4-card.webp",
+   "ghost": "renders/hair-touch-28dad4b4-ghost.webp"
   },
   "arms-crossed": {
-   "key": "8fe3d2c7",
-   "card": "renders/arms-crossed-8fe3d2c7-card.webp",
-   "ghost": "renders/arms-crossed-8fe3d2c7-ghost.webp"
+   "key": "cb815681",
+   "card": "renders/arms-crossed-cb815681-card.webp",
+   "ghost": "renders/arms-crossed-cb815681-ghost.webp"
   },
   "coffee-hold": {
-   "key": "e75cc5b0",
-   "card": "renders/coffee-hold-e75cc5b0-card.webp",
-   "ghost": "renders/coffee-hold-e75cc5b0-ghost.webp"
+   "key": "ec690a44",
+   "card": "renders/coffee-hold-ec690a44-card.webp",
+   "ghost": "renders/coffee-hold-ec690a44-ghost.webp"
   },
   "look-back": {
-   "key": "3f21515a",
-   "card": "renders/look-back-3f21515a-card.webp",
-   "ghost": "renders/look-back-3f21515a-ghost.webp"
+   "key": "9a280e10",
+   "card": "renders/look-back-9a280e10-card.webp",
+   "ghost": "renders/look-back-9a280e10-ghost.webp"
+  },
+  "pockets": {
+   "key": "70eaad39",
+   "card": "renders/pockets-70eaad39-card.webp",
+   "ghost": "renders/pockets-70eaad39-ghost.webp"
+  },
+  "collar-touch": {
+   "key": "6fd1e0c5",
+   "card": "renders/collar-touch-6fd1e0c5-card.webp",
+   "ghost": "renders/collar-touch-6fd1e0c5-ghost.webp"
+  },
+  "bag-strap": {
+   "key": "8b36a7ff",
+   "card": "renders/bag-strap-8b36a7ff-card.webp",
+   "ghost": "renders/bag-strap-8b36a7ff-ghost.webp"
+  },
+  "phone-check": {
+   "key": "43fb01e8",
+   "card": "renders/phone-check-43fb01e8-card.webp",
+   "ghost": "renders/phone-check-43fb01e8-ghost.webp"
   },
   "walk-toward": {
-   "key": "ffb6dde5",
-   "card": "renders/walk-toward-ffb6dde5-card.webp",
-   "ghost": "renders/walk-toward-ffb6dde5-ghost.webp"
+   "key": "c87d263d",
+   "card": "renders/walk-toward-c87d263d-card.webp",
+   "ghost": "renders/walk-toward-c87d263d-ghost.webp"
   },
   "look-away-walk": {
-   "key": "2b5055fe",
-   "card": "renders/look-away-walk-2b5055fe-card.webp",
-   "ghost": "renders/look-away-walk-2b5055fe-ghost.webp"
+   "key": "b0b11f86",
+   "card": "renders/look-away-walk-b0b11f86-card.webp",
+   "ghost": "renders/look-away-walk-b0b11f86-ghost.webp"
+  },
+  "stride-hair": {
+   "key": "501109f4",
+   "card": "renders/stride-hair-501109f4-card.webp",
+   "ghost": "renders/stride-hair-501109f4-ghost.webp"
+  },
+  "cross-street": {
+   "key": "db3bb97a",
+   "card": "renders/cross-street-db3bb97a-card.webp",
+   "ghost": "renders/cross-street-db3bb97a-ghost.webp"
   },
   "wall-lean": {
-   "key": "dcfd0463",
-   "card": "renders/wall-lean-dcfd0463-card.webp",
-   "ghost": "renders/wall-lean-dcfd0463-ghost.webp"
+   "key": "529c1854",
+   "card": "renders/wall-lean-529c1854-card.webp",
+   "ghost": "renders/wall-lean-529c1854-ghost.webp"
   },
   "palm-on-wall": {
-   "key": "2eb2480f",
-   "card": "renders/palm-on-wall-2eb2480f-card.webp",
-   "ghost": "renders/palm-on-wall-2eb2480f-ghost.webp"
+   "key": "000ba4e0",
+   "card": "renders/palm-on-wall-000ba4e0-card.webp",
+   "ghost": "renders/palm-on-wall-000ba4e0-ghost.webp"
   },
   "railing-lean": {
-   "key": "0ec0274f",
-   "card": "renders/railing-lean-0ec0274f-card.webp",
-   "ghost": "renders/railing-lean-0ec0274f-ghost.webp"
+   "key": "91d4f729",
+   "card": "renders/railing-lean-91d4f729-card.webp",
+   "ghost": "renders/railing-lean-91d4f729-ghost.webp"
+  },
+  "car-lean": {
+   "key": "35d88e4c",
+   "card": "renders/car-lean-35d88e4c-card.webp",
+   "ghost": "renders/car-lean-35d88e4c-ghost.webp"
+  },
+  "doorway": {
+   "key": "595f7eff",
+   "card": "renders/doorway-595f7eff-card.webp",
+   "ghost": "renders/doorway-595f7eff-ghost.webp"
   },
   "stair-sit": {
-   "key": "f0520c20",
-   "card": "renders/stair-sit-f0520c20-card.webp",
-   "ghost": "renders/stair-sit-f0520c20-ghost.webp"
+   "key": "a622c1bc",
+   "card": "renders/stair-sit-a622c1bc-card.webp",
+   "ghost": "renders/stair-sit-a622c1bc-ghost.webp"
   },
   "crossed-legs-chair": {
-   "key": "cfeff112",
-   "card": "renders/crossed-legs-chair-cfeff112-card.webp",
-   "ghost": "renders/crossed-legs-chair-cfeff112-ghost.webp"
+   "key": "01bdd980",
+   "card": "renders/crossed-legs-chair-01bdd980-card.webp",
+   "ghost": "renders/crossed-legs-chair-01bdd980-ghost.webp"
   },
   "ledge-perch": {
-   "key": "66a7fee5",
-   "card": "renders/ledge-perch-66a7fee5-card.webp",
-   "ghost": "renders/ledge-perch-66a7fee5-ghost.webp"
+   "key": "fdd37e7c",
+   "card": "renders/ledge-perch-fdd37e7c-card.webp",
+   "ghost": "renders/ledge-perch-fdd37e7c-ghost.webp"
+  },
+  "cafe-table": {
+   "key": "af6437e0",
+   "card": "renders/cafe-table-af6437e0-card.webp",
+   "ghost": "renders/cafe-table-af6437e0-ghost.webp"
+  },
+  "floor-sit": {
+   "key": "38a17740",
+   "card": "renders/floor-sit-38a17740-card.webp",
+   "ghost": "renders/floor-sit-38a17740-ghost.webp"
+  },
+  "knee-up": {
+   "key": "20e3cd79",
+   "card": "renders/knee-up-20e3cd79-card.webp",
+   "ghost": "renders/knee-up-20e3cd79-ghost.webp"
+  },
+  "bench-arm": {
+   "key": "b7793e38",
+   "card": "renders/bench-arm-b7793e38-card.webp",
+   "ghost": "renders/bench-arm-b7793e38-ghost.webp"
   },
   "chin-rest": {
-   "key": "62f58977",
-   "card": "renders/chin-rest-62f58977-card.webp",
-   "ghost": "renders/chin-rest-62f58977-ghost.webp"
+   "key": "593bb07f",
+   "card": "renders/chin-rest-593bb07f-card.webp",
+   "ghost": "renders/chin-rest-593bb07f-ghost.webp"
+  },
+  "over-shoulder-close": {
+   "key": "0085b49f",
+   "card": "renders/over-shoulder-close-0085b49f-card.webp",
+   "ghost": "renders/over-shoulder-close-0085b49f-ghost.webp"
   },
   "side-by-side": {
-   "key": "3ab03bad",
-   "card": "renders/side-by-side-3ab03bad-card.webp",
-   "ghost": "renders/side-by-side-3ab03bad-ghost.webp"
+   "key": "f03c7c71",
+   "card": "renders/side-by-side-f03c7c71-card.webp",
+   "ghost": "renders/side-by-side-f03c7c71-ghost.webp"
   },
   "back-hug": {
-   "key": "85634b79",
-   "card": "renders/back-hug-85634b79-card.webp",
-   "ghost": "renders/back-hug-85634b79-ghost.webp"
+   "key": "0bcf8538",
+   "card": "renders/back-hug-0bcf8538-card.webp",
+   "ghost": "renders/back-hug-0bcf8538-ghost.webp"
   },
   "walk-together": {
-   "key": "24d86f8e",
-   "card": "renders/walk-together-24d86f8e-card.webp",
-   "ghost": "renders/walk-together-24d86f8e-ghost.webp"
+   "key": "f9eb712f",
+   "card": "renders/walk-together-f9eb712f-card.webp",
+   "ghost": "renders/walk-together-f9eb712f-ghost.webp"
+  },
+  "forehead-touch": {
+   "key": "f334bca6",
+   "card": "renders/forehead-touch-f334bca6-card.webp",
+   "ghost": "renders/forehead-touch-f334bca6-ghost.webp"
+  },
+  "back-to-back": {
+   "key": "71e284b6",
+   "card": "renders/back-to-back-71e284b6-card.webp",
+   "ghost": "renders/back-to-back-71e284b6-ghost.webp"
+  },
+  "twirl": {
+   "key": "2a8bc985",
+   "card": "renders/twirl-2a8bc985-card.webp",
+   "ghost": "renders/twirl-2a8bc985-ghost.webp"
   }
  }
 }
